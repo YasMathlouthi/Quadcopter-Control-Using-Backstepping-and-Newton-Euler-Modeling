@@ -1,0 +1,5 @@
+Change line 33 to test a desired trajectory - trajectory = ""; 
+
+1- circulaire
+2- spirale 
+3- reference 
